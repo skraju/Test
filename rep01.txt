@@ -1,5 +1,10 @@
 It is repository number 1
 
+
 rep01 changed it
 
+<<<<<<< HEAD
 changed it after cloning
+=======
+changed in myrepo2
+>>>>>>> origin
